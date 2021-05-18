@@ -1,0 +1,3 @@
+Pipenv install
+Django install
+Any code editor(Vscode,Sublime Text,Notepad++, etc.) install
